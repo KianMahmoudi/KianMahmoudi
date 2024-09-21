@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kian</h1>
-<h3 align="center">A android developer from iran</h3>
+<h3 align="center">Android developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kianmahmoudi&label=Profile%20views&color=0e75b6&style=flat" alt="kianmahmoudi" /> </p>
 
@@ -7,9 +7,13 @@
 
 - 🔭 I’m currently working on **CityGuideApp**
 
+- 🌱 I’m currently learning **android development**
+
+- 📫 How to reach me **kianmahmoudi9@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="kian-mahmoudi-a3696132a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kian mahmoudi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kian-mahmoudi-a3696132a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kian-mahmoudi-a3696132a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kianmahmoudi&show_icons=true&locale=en&layout=compact" alt="kianmahmoudi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kianmahmoudi&show_icons=true&locale=en" alt="kianmahmoudi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kianmahmoudi&" alt="kianmahmoudi" /></p>
