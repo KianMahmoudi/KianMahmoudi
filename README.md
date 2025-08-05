@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kianmahmoudi" alt="kianmahmoudi" /></a> </p>
 
-- 🔭 I’m currently working on **CityGuideApp**
+- 🔭 I’m currently working on [Shiraz gard](https://github.com/KianMahmoudi/shiraz-gard)
 
 - 🌱 I’m currently learning **android development**
 
